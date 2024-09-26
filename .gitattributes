@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+C:/Users/matty/OneDrive/Documents/dungeon/Die[[:space:]]in[[:space:]]the[[:space:]]Dungeon[[:space:]]1.6.2f[[:space:]][WEB].data filter=lfs diff=lfs merge=lfs -text
+Die[[:space:]]in[[:space:]]the[[:space:]]Dungeon[[:space:]]1.6.2f[[:space:]][WEB].data filter=lfs diff=lfs merge=lfs -text
